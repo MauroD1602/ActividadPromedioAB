@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PromedioProyecto
 {
-    class Promedio
+    internal class Promedio
     {
     }
 }
